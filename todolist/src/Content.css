@@ -1,0 +1,15 @@
+p{
+    display:flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    padding-top: 9%;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:700;
+}
+main{
+    background-color:#ececec;
+  
+    flex :1;
+}

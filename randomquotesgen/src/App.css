@@ -1,0 +1,46 @@
+ .appQuotes{
+  background-color: #007cb9;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10%;
+  display: flex;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  border: 3px;
+  border-color: black;
+  border-style: solid;
+  color: #d5eeff;
+  padding: 21px;
+  border-radius:15px;
+  -webkit-border-radius:15px;
+  -moz-border-radius:15px;
+  -ms-border-radius:15px;
+  -o-border-radius:15px;
+} 
+.appQuotes:hover{
+  background-color: #00aaff;
+  color:black;
+}
+.app{
+  background-color: #d5eeff;
+  width: 100vw;
+  height: 100vh;
+}
+.appButton{
+  display: flex;
+  position: fixed;
+  background-color: #ff895d;
+  border-radius:15px;
+  -webkit-border-radius:15px;
+  -moz-border-radius:15px;
+  -ms-border-radius:15px;
+  -o-border-radius:15px;
+  bottom: 100px;
+  right: 100px;
+  padding: 10px; 
+  color: #d5eeff; 
+  font-size: 21px;
+}
+.appButton:hover{
+  font-size: 22px;
+}

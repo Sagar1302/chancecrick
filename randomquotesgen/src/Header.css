@@ -1,0 +1,11 @@
+.headStyle{
+    background-color: #ff895d;
+    color: #005689; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:40px;
+    padding: 20px;
+}
